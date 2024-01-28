@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @codebox283
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Basics of C++
-- 😎 I'm a freshman pursuing Computer Science and Engineering
+- 👀 I’m an aspiring Software Developer
+- 🌱 I’m currently learning Mobile App Development
+- 😎 I'm a third year Computer Science Student
