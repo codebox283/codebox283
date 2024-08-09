@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Nakshatra!
-<table>
+<table width="100%">
   <tr>
     <td>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGdwdTJnbHp1Z2k0cTNoeWE1bzZna3Y2cmhleHpjejNvMG8yMWpiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c2lbMLWfL1mQ8/giphy.gif" width="500" height="auto" alt="Animated GIF 1" />
@@ -20,7 +20,7 @@
     I'm a passionate developer with a love for creating intuitive and dynamic applications. I specialize in Full Stack Web Development and Mobile App Development and always strive to learn new technologies.
   </p>
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <ul>
@@ -88,7 +88,7 @@
 
 
 ## 📣 My Portfolio
-<table width="1000">
+<table width="100%">
   <tr>
     <td align="center" width="500">
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhtMm5oMWlkNHlmbGF5MGt3eGhpbXRkeXpxMXI4OXJnczVnenp1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rG1op9e1QFBvi/giphy.gif" alt="Animated GIF 3" />
