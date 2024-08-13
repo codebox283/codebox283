@@ -15,7 +15,6 @@
 
 
 ## 🚀 About Me
-
 <p>
     I'm a passionate developer with a love for creating intuitive and dynamic applications. I specialize in Full Stack Web Development and Mobile App Development and always strive to learn new technologies.
   </p>
